@@ -1,0 +1,25 @@
+{
+"basics":{
+  "name":"saripallisarika",
+  "email":"saripallisarika@gmail.com",
+  "mobile":"+91-9603894456"
+},
+"education" :[
+  {
+"degree" :"B.tech",
+"institute":"PSCMR",
+"Data":["2015-2019","73%"]
+},
+{
+  "degree":"Intermediate",
+  "institute":"NRI junior college",
+  "Data":["2013-2015","83%"]
+},
+
+{
+  "degree":"SSC",
+  "institute":"Narayana E.M high school",
+  "Data":["2012-2013","7.5"]
+}
+]
+}
