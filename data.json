@@ -4,6 +4,9 @@
   "email":"saripallisarika@gmail.com",
   "mobile":"+91-9603894456"
 },
+"career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+},
 "education" :[
   {
 "degree" :"B.tech",
@@ -20,6 +23,35 @@
   "degree":"SSC",
   "institute":"Narayana E.M high school",
   "Data":["2012-2013","7.5"]
+}
+],
+"achievements":[
+  {
+    "name":"Awarded as <b>1<sup>st</sup>Prize</b> in Self-Defence"
+
+  },
+  {
+    "name":"Got <strong>1<sup>st</strong>Prize for <q> PPT presentation</q>"
+  }
+],
+"technicalskills":[
+
+{
+  "name":"Programming Languages",
+  "data": ["C", " JAVA", " C++", " Javascript", " PHP", " HTML"]
+
+},
+{
+  "name":"Database",
+  "data":["MYSQL", " ORACLE"]
+},
+{
+  "name":"Web Technologies",
+  "data":["HTML", " CSS", " JAVASCRIPT"]
+},
+{
+  "name":"Libraries and Framework",
+  "data":["jQuery", " codeIgnitor"]
 }
 ]
 }
